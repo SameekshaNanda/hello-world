@@ -1,2 +1,2 @@
 # hello-world
-repository
+learning new things daily.
